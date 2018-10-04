@@ -1,0 +1,5 @@
+diff a/static/js/db-script.txt b/static/js/db-script.txt	(rejected hunks)
+@@ -0,0 +1,3 @@
++create table test (
++id uniqueidentifier primary key
++)
