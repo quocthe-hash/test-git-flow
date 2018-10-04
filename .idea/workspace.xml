@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdf790ce-b2dd-48ec-97f3-a5d5c4a29f83" name="Default Changelist" comment="update user page">
-      <change afterPath="$PROJECT_DIR$/static/user/editUser.html" afterDir="false" />
+    <list default="true" id="fdf790ce-b2dd-48ec-97f3-a5d5c4a29f83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/user/addUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/user/editUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/user/editUser.html" afterDir="false" />
     </list>
     <list id="6c1d226f-091a-45bd-9e67-7305df3620e0" name="add product page" comment="add product page">
       <changelist_data name="quoc nguyen" email="quoc.nguyen@the-hash.com" date="1538626605000" />
@@ -51,15 +50,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="63" />
-          <entry key="txt" value="43" />
+          <entry key="html" value="122" />
+          <entry key="txt" value="47" />
           <entry key="xml" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="63" />
-          <entry key="PLAIN_TEXT" value="43" />
+          <entry key="HTML" value="122" />
+          <entry key="PLAIN_TEXT" value="47" />
           <entry key="XML" value="10" />
         </counts>
       </usages-collector>
@@ -82,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/user/editUser.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            <state relative-caret-position="90">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -189,7 +188,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538638714834" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538638922682" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -344,7 +343,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538628797108</updated>
       <workItem from="1538628799667" duration="1779000" />
-      <workItem from="1538636675204" duration="2038000" />
+      <workItem from="1538636675204" duration="2256000" />
     </task>
     <task id="LOCAL-00001" summary="add sub page">
       <created>1538636962705</created>
@@ -360,11 +359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538638396902</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update user page">
+      <created>1538638752751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538638752751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3817000" />
+    <option name="totallyTimeSpent" value="4035000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -505,11 +511,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="true" />
     <MESSAGE value="test" />
     <MESSAGE value="add sub page" />
     <MESSAGE value="update user page" />
     <option name="LAST_COMMIT_MESSAGE" value="update user page" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="ebeanEnhancement">
     <option name="enabled" value="true" />
@@ -551,8 +559,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/user/editUser.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
